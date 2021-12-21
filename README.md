@@ -1,6 +1,6 @@
 # weather-detection-app
 <h5> This is a ReactJS based web application </h5>
-</h2> To get started and run the app:</h2>
+<h2> To get started and run the app:</h2>
 
 <h5> Clone the project.</h5>
 <h5> Run npm install to install the corresponding node packages </h5>
